@@ -60,6 +60,34 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+## 🎯 **Equipo TI & Software**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://kuantica.cl/wp-content/uploads/2024/08/2.png" width="200px;" alt="Foto de perfil"/>
+      <br />
+      <strong>Felipe Vera</strong>
+      <br />
+      <em>Frontend Developer</em>
+    </td>
+    <td align="center">
+      <img src="https://kuantica.cl/wp-content/uploads/2024/08/1.png" width="200px;" alt="Foto de perfil"/>
+      <br />
+      <strong>Esteban Cortés</strong>
+      <br />
+      <em>Fullstack Developer</em>
+    </td>
+     <td align="center">
+      <img src="https://kuantica.cl/wp-content/uploads/2024/08/Sergio.png" width="200px;" alt="Foto de perfil"/>
+      <br />
+      <strong>Sergio Fuentes</strong>
+      <br />
+      <em>Sr Frontend Developer </em>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 **Kuantica.cl** - Innovando el Futuro Inmobiliario 🚀
