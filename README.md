@@ -26,7 +26,7 @@
 📧 Email: desarrollo@kuantica.cl  
 📧 Jobs: jobs@kuantica.cl   
 📞 Oficina: (2) 2932 5955  
-🏢 Dirección: Av. Apoquindo 7935, of. 201-A, Santiago, Chile
+🏢 Dirección: Av. Apoquindo 7935, Santiago, Chile
 
 ---
 
