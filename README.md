@@ -6,7 +6,7 @@
 ## 🛠️ **Nuestras Soluciones**
 
 ### 🌐 **Páginas Web Inmobiliarias**
-- Desarrollamos **páginas web** personalizadas con **integración con PlanOK** o utros CRM para una gestión de propiedades optimizada.
+- Desarrollamos **páginas web** personalizadas con **integración con PlanOK** u otros CRM para una gestión de propiedades optimizada.
 
 ### 🏗️ **Desarrollo de CRM Inmobiliario**
 - Creamos **CRM** a medida, diseñados específicamente para las necesidades del sector inmobiliario, ayudando a gestionar clientes, propiedades y ventas de manera eficiente.
