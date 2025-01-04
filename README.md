@@ -77,13 +77,7 @@
       <br />
       <em>Fullstack Developer</em>
     </td>
-     <td align="center">
-      <img src="https://kuantica.cl/wp-content/uploads/2024/08/Sergio.png" width="200px;" alt="Foto de perfil"/>
-      <br />
-      <strong>Sergio Fuentes</strong>
-      <br />
-      <em>Sr Frontend Developer </em>
-    </td>
+    
   </tr>
 </table>
 
