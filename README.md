@@ -5,20 +5,20 @@
 
 ## 🛠️ **Nuestras Soluciones**
 
-### 🌐 **Páginas Web Inmobiliarias**
-- Desarrollamos **páginas web** personalizadas con **integración con PlanOK** u otros CRM para una gestión de propiedades optimizada.
+### 🌐 **Páginas Web Inmobiliarias**  
+Creamos sitios web adaptados al sector inmobiliario y a tus objetivos.  
 
-### 🏗️ **Desarrollo de CRM Inmobiliario**
-- Creamos **CRM** a medida, diseñados específicamente para las necesidades del sector inmobiliario, ayudando a gestionar clientes, propiedades y ventas de manera eficiente.
+### 🏗️ **Integraciones de CRM**  
+Conectamos tu CRM para automatizar cotizaciones, reservas y simulaciones.  
 
-### 📊 **Dashboards Interactivos**
-- Implementamos **dashboards** intuitivos y visuales que te permiten tomar decisiones basadas en datos en tiempo real.
+### 📊 **Dashboards Interactivos**  
+Visualiza datos en tiempo real con dashboards intuitivos.  
 
-### 🤖 **Integraciones de Inteligencia Artificial**
-- Incorporamos **IA** en tus procesos con soluciones como **bots de WhatsApp** que interactúan con tus clientes de forma rápida y efectiva.
+### 🤖 **Inteligencia Artificial**  
+Automatiza procesos con IA, como bots de WhatsApp para atención al cliente.  
 
-### 💻 **Software para Pantallas**
-- Desarrollamos **software para pantallas** que mejora la experiencia visual de tus clientes en tus oficinas o eventos.
+### 💻 **Software para Pantallas Touch**  
+Optimiza la experiencia visual en oficinas y eventos con software especializado.
 
 
 ## 📬 **Contacto**
@@ -63,6 +63,13 @@
 ## 🎯 **Equipo TI & Software**
 <table>
   <tr>
+     <td align="center">
+      <img src="https://kuantica.cl/wp-content/uploads/2024/08/1.png" width="200px;" alt="Foto de perfil"/>
+      <br />
+      <strong>Esteban Cortés</strong>
+      <br />
+      <em>Fullstack Developer</em>
+    </td>
     <td align="center">
       <img src="https://kuantica.cl/wp-content/uploads/2024/08/2.png" width="200px;" alt="Foto de perfil"/>
       <br />
@@ -70,14 +77,6 @@
       <br />
       <em>Frontend Developer</em>
     </td>
-    <td align="center">
-      <img src="https://kuantica.cl/wp-content/uploads/2024/08/1.png" width="200px;" alt="Foto de perfil"/>
-      <br />
-      <strong>Esteban Cortés</strong>
-      <br />
-      <em>Fullstack Developer</em>
-    </td>
-    
   </tr>
 </table>
 
